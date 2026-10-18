@@ -1,0 +1,1 @@
+A simple single-page macro and calorie tracker that calculates your daily targets using the Mifflin-St Jeor equation and lets you log meals from a built-in food database or add your own custom foods, with everything saved locally in your browser.
