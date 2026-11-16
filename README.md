@@ -2,6 +2,8 @@
 
 Plan daily calorie and macro targets, then log meals against them. Makro estimates energy needs using the Mifflin–St Jeor equation and your activity level.
 
+[Open Makro on GitHub Pages](https://cryaothicc.github.io/Makro/)
+
 ## Run locally
 
 Open `index.html` in your browser. There is no install or build step. The page loads Tailwind CSS and Inter from external providers.
